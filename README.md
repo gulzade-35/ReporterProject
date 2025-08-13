@@ -18,3 +18,9 @@ Yazarlar makale oluşturabilir, yorum yönetebilir ve kendi profillerini güncel
 <img width="660" height="693" alt="Image" src="https://github.com/user-attachments/assets/10f1339b-5169-4a97-9af7-e9a9920a0b0a" />
 
 <img width="679" height="843" alt="Image" src="https://github.com/user-attachments/assets/b4775ee0-a5e1-4ae3-b6f8-c2419180f325" />
+
+✍️ İçerik Yönetimi
+
+* Makale ekleme, silme ve güncelleme
+* Makale detay sayfası (Slug kullanımı)
+
