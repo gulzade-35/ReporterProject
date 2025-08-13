@@ -43,3 +43,4 @@ Yazarlar makale oluşturabilir, yorum yönetebilir ve kendi profillerini güncel
 * Bootstrap 5, jQuery, SweetAlert2 ile etkileşimli bildirimler
 * Razor View Engine, Partial View, ViewComponent mimarisi
 
+<img width="800" height="944" alt="Image" src="https://github.com/user-attachments/assets/b1b20ba2-7e96-46aa-ae8f-3c28197f8924" />
