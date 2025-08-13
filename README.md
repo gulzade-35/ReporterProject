@@ -37,3 +37,9 @@ Yazarlar makale oluşturabilir, yorum yönetebilir ve kendi profillerini güncel
 <img width="1142" height="941" alt="Image" src="https://github.com/user-attachments/assets/d0bde43b-eced-4e7e-af15-8929e6ecd429" />
 
 <img width="932" height="942" alt="Image" src="https://github.com/user-attachments/assets/d223a90d-bd37-4536-ae0d-a0873908647d" />
+
+🎨 Arayüz & Etkileşim
+
+* Bootstrap 5, jQuery, SweetAlert2 ile etkileşimli bildirimler
+* Razor View Engine, Partial View, ViewComponent mimarisi
+
