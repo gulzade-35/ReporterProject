@@ -1,0 +1,18 @@
+﻿@model List<ReporterDay.EntityLayer.Entities.Article>
+
+<div class="recent-posts-widget widget-item">
+
+    <h3 class="widget-title">Son Makaleler</h3>
+    @foreach (var item in Model)
+    {
+        <div class="post-item">
+            <img src="@item.CoverImageUrl" alt="" class="flex-shrink-0">
+            <div>
+                <h4><a href="/Article/ArticleDetail/@item.Slug">@item.Title</a></h4>
+                <time datetime="2020-01-01">@item.CreateDate</time>
+            </div>
+        </div>
+    }
+    <!-- End recent post item-->
+
+</div><!--/Recent Posts Widget -->

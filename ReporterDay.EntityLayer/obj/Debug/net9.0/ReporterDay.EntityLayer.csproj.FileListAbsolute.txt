@@ -1,0 +1,14 @@
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.EntityLayer\bin\Debug\net9.0\ReporterDay.EntityLayer.deps.json
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.EntityLayer\bin\Debug\net9.0\ReporterDay.EntityLayer.runtimeconfig.json
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.EntityLayer\bin\Debug\net9.0\ReporterDay.EntityLayer.dll
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.EntityLayer\bin\Debug\net9.0\ReporterDay.EntityLayer.pdb
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.EntityLayer\obj\Debug\net9.0\ReporterDay.EntityLayer.csproj.AssemblyReference.cache
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.EntityLayer\obj\Debug\net9.0\ReporterDay.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.EntityLayer\obj\Debug\net9.0\ReporterDay.EntityLayer.AssemblyInfoInputs.cache
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.EntityLayer\obj\Debug\net9.0\ReporterDay.EntityLayer.AssemblyInfo.cs
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.EntityLayer\obj\Debug\net9.0\ReporterDay.EntityLayer.csproj.CoreCompileInputs.cache
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.EntityLayer\obj\Debug\net9.0\ReporterDay.EntityLayer.dll
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.EntityLayer\obj\Debug\net9.0\refint\ReporterDay.EntityLayer.dll
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.EntityLayer\obj\Debug\net9.0\ReporterDay.EntityLayer.pdb
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.EntityLayer\obj\Debug\net9.0\ReporterDay.EntityLayer.genruntimeconfig.cache
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.EntityLayer\obj\Debug\net9.0\ref\ReporterDay.EntityLayer.dll

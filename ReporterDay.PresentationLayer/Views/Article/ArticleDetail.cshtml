@@ -1,0 +1,47 @@
+﻿
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+ @await Component.InvokeAsync("_HeadDefaultComponentPartial")
+
+<body class="single-post-page">
+
+    @await Component.InvokeAsync("_ArticleDetailNavbarComponentPartial")
+
+    <main class="main">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-8">
+                    @await Component.InvokeAsync("_ArticleDetailContentComponentPartial", new { id = ViewBag.id })
+
+                    @await Component.InvokeAsync("_ArticleDetailCommentComponentPartial", new { id = ViewBag.id })
+
+                    @await Component.InvokeAsync("_ArticleDetailAddCommentComponentParital", new { articleId = ViewBag.id })
+                </div>
+
+                <div class="col-lg-4 sidebar">
+
+                    <div class="widgets-container">
+
+                        @await Component.InvokeAsync("_ArticleDetailAboutAuthorComponentPartial", new { id = ViewBag.id })
+           
+                        @await Component.InvokeAsync("_ArticleDetailRecentArticlesComponentPartial")
+                     
+                        @await Component.InvokeAsync("_ArticleDetailTagListComponentPartial")
+                      
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    @await Component.InvokeAsync("_FooterDefaultComponentPartial")
+
+</body>
+</html>

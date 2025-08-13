@@ -1,0 +1,15 @@
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.DataAccessLayer\obj\Debug\net9.0\ReporterDay.DataAccessLayer.csproj.AssemblyReference.cache
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.DataAccessLayer\obj\Debug\net9.0\ReporterDay.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.DataAccessLayer\obj\Debug\net9.0\ReporterDay.DataAccessLayer.AssemblyInfoInputs.cache
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.DataAccessLayer\obj\Debug\net9.0\ReporterDay.DataAccessLayer.AssemblyInfo.cs
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.DataAccessLayer\obj\Debug\net9.0\ReporterDay.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.DataAccessLayer\bin\Debug\net9.0\ReporterDay.DataAccessLayer.deps.json
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.DataAccessLayer\bin\Debug\net9.0\ReporterDay.DataAccessLayer.dll
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.DataAccessLayer\bin\Debug\net9.0\ReporterDay.DataAccessLayer.pdb
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.DataAccessLayer\bin\Debug\net9.0\ReporterDay.EntityLayer.dll
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.DataAccessLayer\bin\Debug\net9.0\ReporterDay.EntityLayer.pdb
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.DataAccessLayer\obj\Debug\net9.0\Reporter.D37F1022.Up2Date
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.DataAccessLayer\obj\Debug\net9.0\ReporterDay.DataAccessLayer.dll
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.DataAccessLayer\obj\Debug\net9.0\refint\ReporterDay.DataAccessLayer.dll
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.DataAccessLayer\obj\Debug\net9.0\ReporterDay.DataAccessLayer.pdb
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.DataAccessLayer\obj\Debug\net9.0\ref\ReporterDay.DataAccessLayer.dll

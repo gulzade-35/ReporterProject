@@ -1,0 +1,17 @@
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.BusinessLayer\obj\Debug\net9.0\ReporterDay.BusinessLayer.csproj.AssemblyReference.cache
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.BusinessLayer\obj\Debug\net9.0\ReporterDay.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.BusinessLayer\obj\Debug\net9.0\ReporterDay.BusinessLayer.AssemblyInfoInputs.cache
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.BusinessLayer\obj\Debug\net9.0\ReporterDay.BusinessLayer.AssemblyInfo.cs
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.BusinessLayer\obj\Debug\net9.0\ReporterDay.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.BusinessLayer\bin\Debug\net9.0\ReporterDay.BusinessLayer.deps.json
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.BusinessLayer\bin\Debug\net9.0\ReporterDay.BusinessLayer.dll
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.BusinessLayer\bin\Debug\net9.0\ReporterDay.BusinessLayer.pdb
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.BusinessLayer\bin\Debug\net9.0\ReporterDay.DataAccessLayer.dll
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.BusinessLayer\bin\Debug\net9.0\ReporterDay.EntityLayer.dll
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.BusinessLayer\bin\Debug\net9.0\ReporterDay.DataAccessLayer.pdb
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.BusinessLayer\bin\Debug\net9.0\ReporterDay.EntityLayer.pdb
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.BusinessLayer\obj\Debug\net9.0\Reporter.BB7F33C9.Up2Date
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.BusinessLayer\obj\Debug\net9.0\ReporterDay.BusinessLayer.dll
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.BusinessLayer\obj\Debug\net9.0\refint\ReporterDay.BusinessLayer.dll
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.BusinessLayer\obj\Debug\net9.0\ReporterDay.BusinessLayer.pdb
+D:\UdemyProjeler\YazılımKampı\ReporterDay\ReporterDay.BusinessLayer\obj\Debug\net9.0\ref\ReporterDay.BusinessLayer.dll
