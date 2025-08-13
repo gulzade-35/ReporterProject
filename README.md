@@ -19,6 +19,7 @@ Yazarlar makale oluşturabilir, yorum yönetebilir ve kendi profillerini güncel
 
 <img width="679" height="843" alt="Image" src="https://github.com/user-attachments/assets/b4775ee0-a5e1-4ae3-b6f8-c2419180f325" />
 
+
 ✍️ İçerik Yönetimi
 
 * Makale ekleme, silme ve güncelleme
@@ -27,3 +28,9 @@ Yazarlar makale oluşturabilir, yorum yönetebilir ve kendi profillerini güncel
 <img width="1874" height="940" alt="Image" src="https://github.com/user-attachments/assets/0f109a5a-394f-4cb6-b1a1-23176b11af8b" />
 
 <img width="1496" height="366" alt="Image" src="https://github.com/user-attachments/assets/d879c228-3cc3-4e84-bcf7-4d36e3e56194" />
+
+💬 Yorum Sistemi
+* AJAX destekli yorum gmnderimi
+* Toksik içerik analizi (Hugging Face unitary/toxic-bert modeli ile)
+* Yorum çevirisi (Hugging Face Helsinki-NLP/opus-mt-tr-en modeli ile)
+
