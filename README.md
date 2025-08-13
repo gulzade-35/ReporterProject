@@ -2,7 +2,7 @@
 
 📖 Proje Hakkında
 ReporterDay, ASP.NET Core MVC ile geliştirilmiş bir blog ve makale yönetim sistemidir.  
-Yazarlar makale oluşturabilir, yorum yönetebilir ve kendi profillerini güncelleyebilirler.
+Yazarlar makale oluşturabilir, yorum yönetebilir ve profil güncelleyebilirler.
 
 🚀Sayfa Özellikleri
 
