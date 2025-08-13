@@ -11,3 +11,5 @@ Yazarlar makale oluşturabilir, yorum yönetebilir ve kendi profillerini güncel
 * ASP .NET Core Identity ile kullanıcı kaydı, girişi ve yetkilendirmesi
 * Profil düzenleme
 
+<img width="1523" height="884" alt="Image" src="https://github.com/user-attachments/assets/fe23257d-6323-4541-95ac-22b89d8beddb" />
+
